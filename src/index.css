@@ -1,0 +1,55 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Oswald', ui-sans-serif, system-ui, sans-serif;
+  --font-body: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
+
+  --color-saffron: #ff9933;
+  --color-india-green: #138808;
+  --color-military-900: #0f1419;
+  --color-military-800: #1a2332;
+  --color-military-700: #243044;
+  --color-olive: #4a5d23;
+  --color-gold: #c9a227;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-military-900 text-slate-200 antialiased font-[family-name:var(--font-body)];
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+
+  .text-gradient-tricolor {
+    background: linear-gradient(
+      90deg,
+      var(--color-saffron) 0%,
+      #ffffff 45%,
+      var(--color-india-green) 100%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(1.25rem);
+    transition:
+      opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+      transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  .reveal.reveal-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
