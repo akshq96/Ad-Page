@@ -9,7 +9,7 @@ A modern web-based advertisement landing page designed to showcase products, ser
 -  Fully responsive (mobile + desktop)  
 -  Fast loading and optimized performance  
 -  Modular and reusable components  
-- 🎨 Customizable layout and styling  
+-  Customizable layout and styling  
 - 🌐 Cross-browser compatibility  
 
 ---
