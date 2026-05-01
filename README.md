@@ -10,6 +10,6 @@ A modern web-based advertisement landing page designed to showcase products, ser
 -  Fast loading and optimized performance  
 -  Modular and reusable components  
 -  Customizable layout and styling  
-- 🌐 Cross-browser compatibility  
+-  Cross-browser compatibility  
 
 ---
