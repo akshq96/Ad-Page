@@ -8,7 +8,7 @@ A modern web-based advertisement landing page designed to showcase products, ser
 -  Clean and minimal UI design  
 -  Fully responsive (mobile + desktop)  
 -  Fast loading and optimized performance  
-- 🧩 Modular and reusable components  
+-  Modular and reusable components  
 - 🎨 Customizable layout and styling  
 - 🌐 Cross-browser compatibility  
 
