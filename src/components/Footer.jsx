@@ -4,7 +4,7 @@ const social = [
     href: 'https://www.instagram.com/invites/contact/?igsh=zshbae41npr7&utm_content=gesoczm',
     icon: 'ig',
   },
-  { label: 'YouTube', href: 'https://www.youtube.com/', icon: 'yt' },
+  { label: 'YouTube', href: 'https://youtube.com/@veer_ssb_academy?si=ZjhRStKS5ZT3Q_iw', icon: 'yt' },
   { label: 'Facebook', href: 'https://www.facebook.com/share/1DbdGzNnK1/', icon: 'fb' },
 ]
 
