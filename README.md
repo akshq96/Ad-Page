@@ -16,7 +16,7 @@ A modern web-based advertisement landing page designed to showcase products, ser
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
 - **Framework (if used):** React / Next.js *(update if applicable)*
--- **Styling:** CSS / Tailwind / Bootstrap *(update if applicable)*  
+- **Styling:** CSS / Tailwind / Bootstrap *(update if applicable)*  
 
 ---
 
