@@ -14,3 +14,5 @@ A modern web-based advertisement landing page designed to showcase products, ser
 
 ---
 ## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+
