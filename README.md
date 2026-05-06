@@ -19,4 +19,26 @@ A modern web-based advertisement landing page designed to showcase products, ser
 - **Styling:** CSS / Tailwind / Bootstrap *(update if applicable)*  
 
 ---
+# 📂 Project Structure
 
+```bash
+Ad-Page/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   ├── main.js
+│   └── index.css
+│
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── README.md
+└── .gitignore
+```
+
+---
