@@ -69,3 +69,10 @@ MIT License © 2026 Akshit Raj
 
 ## Akshit Raj
 
+
+# 🎯 Project Goal
+
+The main goal of this project is to create a professional, responsive, and attractive advertisement landing page that can be customized easily for startups, businesses, products, or promotional campaigns.
+
+---
+
