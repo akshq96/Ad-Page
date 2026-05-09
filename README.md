@@ -55,4 +55,17 @@ Ad-Page/
 - Add More Animations
 - Dark Mode Support
 
+# 📄 License
+
+This project is licensed under the MIT License.
+
+```text
+MIT License © 2026 Akshit Raj
+```
+
 ---
+
+# 👨‍💻 Author
+
+## Akshit Raj
+
