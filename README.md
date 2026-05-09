@@ -42,3 +42,17 @@ Ad-Page/
 ```
 
 ---
+
+
+# 🧩 Future Improvements
+
+- Add Backend Integration
+- Add Authentication System
+- Add Analytics Dashboard
+- Add Contact Form
+- Add Database Integration
+- Improve SEO
+- Add More Animations
+- Dark Mode Support
+
+---
