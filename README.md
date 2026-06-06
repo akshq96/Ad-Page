@@ -65,7 +65,7 @@ MIT License © 2026 Akshit Raj
 
 ---
 
- 👨‍💻 Author
+  Author
 
 ## Akshit Raj
 
